@@ -1,3 +1,4 @@
+# 닭의 수를 표시할 것임을 알림_*_coding:cp949
 print "I will now count my chickens :"
 
 print "Hens", 25 + 30 / 6
