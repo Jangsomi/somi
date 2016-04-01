@@ -1,7 +1,7 @@
 name = 'Zed A. Shaw'
 age = 35 # not a lie
-height = 74 # inches
-weight = 180 # lbs
+height = 187.96 # centimeters
+weight = 81.65 # kg
 eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
