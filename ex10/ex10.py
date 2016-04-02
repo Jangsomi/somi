@@ -9,7 +9,8 @@ I'll do a list:
 \t* Catnip\n\t* Grass
 """
 
-print tabby_cat
-print persian_cat
-print backslash_cat
-print fat_cat
+print (tabby_cat)
+print (persian_cat)
+print (backslash_cat)
+print (fat_cat)
+print ('Study Drills 10.05':Wt %r  )
