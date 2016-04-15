@@ -4,12 +4,12 @@ script, filename = argv
 
 txt = open(filename)
 
-print "Here's your file %r:" % filename
-print txt.read()
+print ("Here's your file %r:" % filename)
+print (txt.read())
 
-print "Here's your filename again:"
+print ("Here's your filename again:")
 file_again = raw_input("> ")
 
-txt_again = open(file_agin)
+txt_again = open(file_again)
 
-print txt_again.read()
+print (txt_again.read())
