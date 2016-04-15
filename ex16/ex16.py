@@ -21,14 +21,14 @@ line1 = raw_input("line 1: ")
 line2 = raw_input("line 2: ")
 line3 = raw_input("line 3: ")
 
-print ("I'm going to write these to the file."
+print ("I'm going to write these to the file.")
 
 target.write(line1)
-target.write("\n")
+target.write("Wn")
 target.write(line2)
-target.write("\n")
+target.write("Wn")
 target.write(line3)
-target.write("\n")
+target.write("Wn")
 
 print ("And finally, we close it.")
 target.close()
