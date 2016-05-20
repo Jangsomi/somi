@@ -22,3 +22,6 @@ if people > trucks:
     print ("Alright, let's just take the trucks.")
 else:
     print ("Fine, let's stay home then.")
+
+#study drills
+#1. elif = if의 반대, else = if와 elif 둘다 아닌 것
