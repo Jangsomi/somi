@@ -1,7 +1,7 @@
 #-*-coding:utf8
 people = 30
-cars = 40
-trucks = 15
+cars = 20
+trucks = 40
 
 
 if cars > people:
