@@ -26,6 +26,11 @@ for i in range(0, 6):
     # append is a function that lists understand
     elements.append(i)
 
+#또는 python 에서는 아래와 같이 할 수도 있다
+# list comprehension
+for i in elements:
+    print("Element was: %d" % i)
+
 # now we can print them out too
 for i in elements:
     print ("Element was: %d" % i)
