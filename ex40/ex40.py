@@ -3,10 +3,10 @@
 mystuff = {'apple': "I AM APPLES!"}
 print(mystuff['apple'])
 
-import mystuff
+import mystuff_module
 
-mystuff.apple()
-print(mystuff.tangerine)
+mystuff_module.apple()
+print(mystuff_module.tangerine)
 
 
 class MyStuff(object):
@@ -20,9 +20,9 @@ class MyStuff(object):
 
 thing = MyStuff()
 thing.apple()
-print(thing.tanerine)
+print(thing.tangerine)
 
-class Song(object)
+class Song(object):
     def __init__(self, lyrics):
         self.lyrics = lyrics
 
